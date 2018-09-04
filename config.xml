@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<module>
+	<name>payir</name>
+	<displayName>Pay.ir Payment Module</displayName>
+	<version>1.0</version>
+	<description>Online Payment with Pay.ir</description>
+	<author>Pay.ir</author>
+	<tab>payments_gateways</tab>
+	<confirmUninstall>Are you sure you want to delete your details?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
